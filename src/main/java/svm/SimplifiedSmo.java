@@ -254,6 +254,6 @@ public class SimplifiedSmo {
 		//数据是原来用于训练的数据
 		System.out.println("开始预测...");
 		double probability = simplifiedSMO.predict(model, svmData.getX(), svmData.getY());
-		System.out.println("预测正确率为：" + probability);
+		System.out.println("预测正确率为:" + probability);
 	}
 }

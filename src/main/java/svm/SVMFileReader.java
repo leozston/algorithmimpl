@@ -98,7 +98,7 @@ public class SVMFileReader {
 	}
 
 	public static void main(String[] args) {
-		SVMFileReader reader = new SVMFileReader("D:\\寒假事情\\研究生项目\\研究室\\SVM\\代码\\libsvm-3.0\\heart_scale");
+		SVMFileReader reader = new SVMFileReader("D://寒假事情//研究生项目//研究室//SVM//代码//libsvm-3.0//heart_scale");
 		SVMData svmData = reader.getSVMData(10);
 		printData(svmData);
 		//printDataLen(svmData);
