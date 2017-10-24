@@ -105,8 +105,5 @@ public class TreeNode2 implements Comparable<TreeNode2>{
 
     /**
      * test2
-     **/
-    /**
-     * master 2
      * */
 }
