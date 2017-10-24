@@ -41,6 +41,10 @@ public class Myfptree2 {
      * 增加注释
      * */
 
+
+    /**
+     * test2进行测试
+     * */
     //创建表头链
     public LinkedList<TreeNode2> buildHeaderLink(LinkedList<LinkedList<String>> records){
         LinkedList<TreeNode2> header=null;
