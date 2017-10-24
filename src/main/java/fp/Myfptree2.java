@@ -81,6 +81,10 @@ public class Myfptree2 {
         String test="ddd";
         return header;
     }
+
+    /**
+     * revert test1
+     * */
     //选择法排序,如果次数相等，则按名字排序,字典顺序,先小写后大写
     public List<TreeNode2> sort(List<TreeNode2> list){
         int len=list.size();
