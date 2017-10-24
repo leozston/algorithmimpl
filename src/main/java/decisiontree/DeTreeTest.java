@@ -84,11 +84,4 @@ public class DeTreeTest {
 ////        DecisionTree decisionTree = new DecisionTree(root);
 ////        decisionTree.buildDecisionTree(root, deData, flags, attributes, attrIndexMap);
 //    }
-
-    /**
-     * test2
-     **/
-    /**
-     * master
-     * */
 }

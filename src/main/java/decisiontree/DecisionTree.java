@@ -258,10 +258,6 @@ public class DecisionTree {
 //    //输出决策树
 //    public void printDecisionTree() {
 //    }
-
-    /**
-     * master1
-     * */
 }
 
 
