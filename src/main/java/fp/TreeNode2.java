@@ -102,4 +102,8 @@ public class TreeNode2 implements Comparable<TreeNode2>{
     public String toString() {
         return  this.getName() +"  " +this.getCount();
     }
+
+    /**
+     * master 2
+     * */
 }
