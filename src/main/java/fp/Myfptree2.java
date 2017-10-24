@@ -37,6 +37,10 @@ public class Myfptree2 {
         br.close();
         return records;
     }
+    /**
+     * 增加注释
+     * */
+
     //创建表头链
     public LinkedList<TreeNode2> buildHeaderLink(LinkedList<LinkedList<String>> records){
         LinkedList<TreeNode2> header=null;
